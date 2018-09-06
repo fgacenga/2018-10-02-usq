@@ -300,13 +300,13 @@ eventbrite: 49929487441          # optional: alphanumeric key for Eventbrite reg
 
   <p>
     Bash is a commonly-used shell that gives you the power to do simple
-    tasks more quickly. We will supply participants access to a VM running Linux
+    tasks more quickly. 
   </p>
 
   <div class="row">
     <div class="col-md-4">
       <h4 id="shell-windows">Windows</h4>
-      We will supply participants access to a VM running Linux. For Windows computers please install PuTTY. PuTTY is an SSH and telnet client. Install from <a href="http://www.putty.org/">PuTTY installer</a> or or if using a USQ computer from within USQ install from:<a href="https://kace.usq.edu.au/userui/software_detail.php?ID=452">USQ KACE</a>.This will provide you with both Git and Bash in the Git Bash program.
+      We will supply Windows participants access to a VM running Linux. For Windows computers please install PuTTY. PuTTY is an SSH and telnet client. Install from <a href="http://www.putty.org/">PuTTY installer</a> or or if using a USQ computer from within USQ install from <a href="https://kace.usq.edu.au/userui/software_detail.php?ID=452">USQ KACE</a>.
         
 
     </div>
